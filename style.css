@@ -1,0 +1,22 @@
+#newspaper {
+    background-color: #E7E2DA;
+    height: 1250px;
+    width: 1300px;
+    margin: auto;
+}
+
+#paper-header {
+    background-image: url(img/paper-head.PNG);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#paper-sub-header {
+    background-image: url(img/paper-sub-head.PNG);
+    height: 125px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
